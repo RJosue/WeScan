@@ -10,7 +10,7 @@
 "wescan.edit.button.next" = "Siguiente";
 
 /* The title on the navigation bar of the Edit screen. */
-"wescan.edit.title" = "Editar Escaneo";
+"wescan.edit.title" = "Editar";
 
 /* The title on the navigation bar of the Review screen. */
 "wescan.review.title" = "Revisión";
